@@ -1,12 +1,12 @@
-#以ReactNative-CLI建立的基礎App (for Android)
+# 以ReactNative-CLI建立的基礎App (for Android)
 
-##程式架構
+## 程式架構
 
 主要以React-Navigation所提供的bottom-tab navigator建構App下方切換頁面的介面功能，再製作一個功能選單的`MenuIcon` component置於每個分頁(`screenOptions`)右上(`headerRight`)。API部分則用`fetch`API`再將呈現的資料以modal component的方式呈現。
 API的endpoint: https://mocki.io/v1/d4867d8b-b5d5-4a48-a4ab-79131b5809b8
 
 
-##進行時間
+## 進行時間
 
 此為我第一次接觸App開發，因此為了掌握開發此App所需要的ReactNative基礎知識及開發環境配置約花了兩個整天的時間。
 之後在下方切換頁面及功能選單的部分則各花了約兩至三小時。
